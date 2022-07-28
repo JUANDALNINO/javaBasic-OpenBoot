@@ -7,8 +7,9 @@ public class HelloWorld {
      * @param args
      */
 
+    // main =>
     public static void main(String[] args) {
-        System.out.println("Hello world from helloWorld class");
+        System.out.println("Hello world from helloWorld class"); // sout
     }
 }
 

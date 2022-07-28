@@ -1,12 +1,16 @@
 package com.company;
 
-public class Types {
+public class DataTypesAndVars {
     public static void main(String[] args) {
+
+        // Para crear variable:
         // 1. tipo de dato + id(identificador) = valor
+        long numberVar = 10;
 
         // 2. tipo + id
         //    id = valor
 
+        // Tipos de datos
         // enteros
         byte number1 = 1; //1byte
         short number2 = 2; //2byte
@@ -31,5 +35,6 @@ public class Types {
         // Tipos envoltorios
         Integer numero = null;
         Long numero2 = 2L;
+
     }
 }
